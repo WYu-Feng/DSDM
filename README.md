@@ -12,6 +12,9 @@ Before running the code, ensure you have the following dependencies installed:
 - PyTorch 2.1.1+cu118
 - torchvision 0.16.1+cu118
 
+And download the following files to the project folder:
+
+
 ### Train
  To train the FRM and MU-Net models, run the following script: `python train.py`. This script will start the training process using the default configuration. 
 

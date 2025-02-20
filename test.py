@@ -88,7 +88,7 @@ if __name__=='__main__':
         save_and_sample_every=save_and_sample_every
     )
 
-    # train
+    # test
     path = 'your checkpoint path'
     trainer.load(path)
     # trainer.test_mu_net()
